@@ -1,2 +1,2 @@
 # FpC
-Fast password Cracker
+A password cracker that's.... **FAST**
